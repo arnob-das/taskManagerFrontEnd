@@ -1,6 +1,8 @@
 .env
 node_modules
 
+TASKMASTER_PROJECT_WALKTHROUGH.md
+
 # Logs
 logs
 *.log
